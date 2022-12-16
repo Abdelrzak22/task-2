@@ -1,0 +1,74 @@
+.facebook{
+position: relative;
+   
+    top: 30%;
+    float: left;
+    margin-left: 4%;
+}
+.form{
+    width: 30%;
+    position: absolute;
+    margin-left: 3%;
+    height: 40%;
+    top:30%;
+ left: 40%;
+    background-color:aliceblue;
+    border: 2px solid rgb(255, 249, 249);
+  
+}
+.facebook h1{
+    color: blue;
+}
+.clear{
+    clear: both;
+}
+.form label{
+width: 100%;
+    display: block;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.form .button1{
+    display: block;
+    background-color: rgb(72, 72, 214);
+    color: aliceblue;
+    margin: auto;
+    width: 90%;
+    margin-top: 15px;
+    height: 40px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+}
+
+.form  .button2{
+    display: block;
+    background-color: rgb(13, 162, 43);
+    color: aliceblue;
+    margin: auto;
+    height: 40px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    margin-top: 15px;
+    width: 60%;
+
+}
+
+.form input{
+
+    display: block;
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 85%;
+    height: 40px;
+    border-radius: 8px;
+}
+.form p{
+text-align: center;
+
+}
+hr{
+    width: 95%;
+    margin: auto;
+}
